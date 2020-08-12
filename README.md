@@ -13,8 +13,8 @@ Asistente de Cátedra en la Universidad Nacional de Economía, primeros pasos en
 
 Contacto y/o Sugerencias:
 
-                                                       1. [LinkedIn](https://www.linkedin.com/in/jose-conde/)
-                                                       2. [Email](mailto:joseconde20.95@gmail.com)
+                       1. [LinkedIn](https://www.linkedin.com/in/jose-conde/)
+                       2. [Email](mailto:joseconde20.95@gmail.com)
    
    
-                                                        😄😄😄 Gracias por leer mi perfil.😄😄😄
+                      😄😄😄 Gracias por leer mi perfil.😄😄😄
