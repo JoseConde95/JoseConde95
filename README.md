@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='left'>
+<img src='https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/Monkey_Kid_Coding.gif' align='right'>
 
 # Jose Conde Galvez
 
