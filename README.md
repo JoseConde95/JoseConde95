@@ -8,7 +8,7 @@
   <a href="https://rpubs.com/JoseConde"><img src="https://www.rstudio.com/wp-content/uploads/2014/06/RStudio-Ball.png" width="30" /></a>
 
 Hola me llamo Jóse Conde, Lima - Perú. <img src="https://image.flaticon.com/icons/svg/2055/2055886.svg" width="13"/>.
-Asistente de Cátedra en la Universidad Nacional de Economía, primeros pasos en la ciencia de datos, futuro Financial Risk Manager.
+Bachiller en Economía de la Universidad Nacional del Callao ocupo el cargo de Analista de Riesgos Financieros, primeros pasos en la ciencia de datos, futuro Financial Risk Manager.
 
 Contacto y/o Sugerencias:
 
